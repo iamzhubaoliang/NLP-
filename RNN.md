@@ -93,6 +93,10 @@ RNN与n-gram都可以用来做填空即预测下一个词，但是n-gram只看�
 
 ## 5. RNN 过程
 
+链接
+
+https://blog.csdn.net/zhaojc1995/article/details/80572098
+
 ![image-20210107205605212](./pic/image-20210107205605212.png)
 
 上图就是RNN的结构和展开图，RNN的权值W,U,V是共享的，y为标签，L为损失，其中损失也是随时间进行累积的，
